@@ -10,6 +10,8 @@ All data is generated inside the python program.
 
 HOW TO USE:
 
+pip install tkinter (required for running the datbase)
+
 STEP #1:
 Run the python file.
 
